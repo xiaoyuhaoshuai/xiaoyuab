@@ -1,9 +1,13 @@
 <?php
 /*
 Plugin Name: Cross Site Payment
+Plugin URI: https://github.com/xiaoyuhaoshuai/xioayuab
 Description: 支持A站下单，B站付款，含多站点、字段联动、安全加密、高级后台配置
 Version: 1.1
-Author: xiaoyuhaoshuai
+Author: xingfankeji
+Author URI: https://github.com/xiaoyuhaoshuai
+License: GPLv2 or later
+Text Domain: cross-site-payment
 */
 
 if (!defined('ABSPATH')) exit;
