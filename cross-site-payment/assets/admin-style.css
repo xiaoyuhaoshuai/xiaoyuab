@@ -1,0 +1,7 @@
+.csp-admin-wrap h1 { color: #2271b1; margin-bottom: 18px; }
+.csp-section-title { border-left: 4px solid #2271b1; padding-left: 8px; font-size: 1.2em; margin-top: 32px; margin-bottom: 12px; }
+.csp-required { color: red; font-weight: bold; }
+.form-table th { vertical-align: top; font-weight: 600; }
+.form-table .description { color: #666; font-size: 0.95em; }
+#csp-json-error, #csp-list-json-error { margin-top: 6px; }
+@media (max-width: 600px) { .form-table, .form-table th, .form-table td { display: block; width: 100%; } }
